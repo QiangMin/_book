@@ -321,6 +321,12 @@ Content-Range：实体主体的位置范围，一般用于发出部分请求时�
 
 -  [从输入 URL 到页面加载完成的过程中都发生了什么事情？](https://www.jianshu.com/p/71cf7f69eca8)
 
+-  [OSI七层模型与TCP/IP五层模型](https://www.cnblogs.com/qishui/p/5428938.html)
+
+-  [说说网络分层里七层模型是哪七层](../html/说说网络分层里七层模型是哪七层.md)
+
+-  [TCP和UDP的区别](../html/TCP和UDP的区别.md)
+
 - [从输入 URL 到页面加载完成发生了什么事](https://segmentfault.com/a/1190000002611809)
 
 - [浏览器渲染原理及流程](https://www.cnblogs.com/slly/p/6640761.html)
